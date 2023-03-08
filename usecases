@@ -1,0 +1,12 @@
+
+| Use Case                                                              | Description                                                           |
+|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Bot Management                                                        |                                                                       |  
+| Storing time of visit	                                                |                                                                       |
+| Keep track of sessions. Increment session number and timestamps     	|                                                                       |
+| Remember if certain settings (including accessibility) are turned on	|                                                                       |
+| Remember notifications already displayed not to show them again	      |                                                                       |
+| Captures a unique pseudonymous session ID	                            |                                                                       |
+| Debugging	                                                            |                                                                       |
+| Error logging	                                                        |                                                                       |
+| A/B testing	                                                          |                                                                       |
