@@ -1,14 +1,14 @@
 ## Use Cases
 
-| Use Case                                                              | Description                                                           |
-| ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Use Case | Description |
+| --- | --- |
 
-| Bot Management                                                        |                                                                       |  
-| Storing time of visit                                                 |                                                                       |
-| Keep track of sessions. Increment session number and timestamps       |                                                                       |
-| Remember if certain settings (including accessibility) are turned on  |                                                                       |
-| Remember notifications already displayed not to show them again       |                                                                       |
-| Captures a unique pseudonymous session ID                             |                                                                       |
-| Debugging                                                             |                                                                       |
-| Error logging	                                                        |                                                                       |
-| A/B testing                                                           |                                                                       |
+| Bot Management                                                        | n/a |  
+| Storing time of visit                                                 | n/a |
+| Keep track of sessions. Increment session number and timestamps       | n/a |
+| Remember if certain settings (including accessibility) are turned on  | n/a |
+| Remember notifications already displayed not to show them again       | n/a |
+| Captures a unique pseudonymous session ID                             | n/a |
+| Debugging                                                             | n/a |
+| Error logging	                                                        | n/a |
+| A/B testing                                                           | n/a |
