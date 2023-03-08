@@ -2,6 +2,7 @@
 
 | Use Case                                                              | Description                                                           |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+
 | Bot Management                                                        |                                                                       |  
 | Storing time of visit                                                 |                                                                       |
 | Keep track of sessions. Increment session number and timestamps       |                                                                       |
